@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning HTML, CSS and JS.
+🌱 I’m currently learning HTML, CSS and JS. <hr>
     I'm a designer too, check out my work here -> <a href="https://www.behance.net/esteb_ac">Behance</a>
 <!--
 **essan1/essan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
