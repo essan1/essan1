@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=essan1&" alt="essan1" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=estebansho&count={2})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=estebansho&count=2)
