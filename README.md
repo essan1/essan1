@@ -9,6 +9,9 @@
 
 - 📄 Know about my experiences [Currently working on it!](Currently working on it!)
 
+- <p>S0y Esteban! He dedicado el inicio de mi vida laboral trabajando en agencias de publicidad, principalmente en el área de diseño, y ese mismo camino me hizo descubrir un gran gusto por el desarrollo, camino que me encuentro recorriendo actualmente, para complemnetar mis conocmientos!
+🗺️Santiago, Chile</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/estebac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estebac" height="30" width="40" /></a>
