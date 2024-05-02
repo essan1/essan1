@@ -1,6 +1,9 @@
 <h1 align="center">h0la, soy Esteban!</h1>
 <h3 align="center">Designer passionate bout communications & currently devepoling my own designs and ideas!</h3>
 
+<p>S0y Esteban! He dedicado el inicio de mi vida laboral trabajando en agencias de publicidad, principalmente en el área de diseño, y ese mismo camino me hizo descubrir un gran gusto por el desarrollo, camino que me encuentro recorriendo actualmente, para complemnetar mis conocmientos!
+🗺️Santiago, Chile</p>
+
 - 🌱 I’m currently learning **HTML, CSS & Js**
 
 - 👨‍💻 All of my projects are available at [be.net/esteb_ac](https://be.net/esteb_ac)
@@ -9,8 +12,7 @@
 
 - 📄 Know about my experiences [Currently working on it!](Currently working on it!)
 
-- <p>S0y Esteban! He dedicado el inicio de mi vida laboral trabajando en agencias de publicidad, principalmente en el área de diseño, y ese mismo camino me hizo descubrir un gran gusto por el desarrollo, camino que me encuentro recorriendo actualmente, para complemnetar mis conocmientos!
-🗺️Santiago, Chile</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
